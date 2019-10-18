@@ -1,0 +1,42 @@
+[{
+        "id": 1,
+        "name": "Pacific rim",
+        "tel": "090900909",
+        "Permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Ricardo Milos",
+        "tel": "1234568798",
+        "Permission": 2
+    },
+
+    {
+        "id": 3,
+        "name": "John Cena",
+        "tel": "56412354",
+        "Permission": 3
+    },
+
+    {
+        "id": 4,
+        "name": "Randy Orton",
+        "tel": "99999999",
+        "Permission": 4
+    },
+
+    {
+        "id": 5,
+        "name": "Hulk",
+        "tel": "987654321",
+        "Permission": 5
+    },
+
+    {
+        "id": 6,
+        "name": "Wofverine",
+        "tel": "090900909",
+        "Permission": 6
+    }
+
+]
